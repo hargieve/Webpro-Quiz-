@@ -26,7 +26,6 @@ URL Routing
 
 Deployment
 The website is deployed using **GitHub Pages**.  
-Live demo: [https://username.github.io/quiz1/](https://username.github.io/quiz1/)
 
 Technologies
 - HTML  
