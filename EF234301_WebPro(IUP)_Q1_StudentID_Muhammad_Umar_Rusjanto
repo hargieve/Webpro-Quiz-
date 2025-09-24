@@ -1,0 +1,126 @@
+# Webpro-Quiz-
+EF234301_WebPro(IUP)_Q1_StudentID_Muhammad_Umar_Rusjanto
+
+Muhammad Umar Rusjanto
+NRP 5025231176
+Webpro
+
+Quiz1/
+ ├── index.html
+ ├── profile.html
+ ├── hometown.html
+ ├── food.html
+ ├── tourist.html
+ ├── style.css
+ └── script.js
+
+Cascading Style Sheets
+Style.css
+    
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f5f5f5;
+    }
+    header {
+      background: #0077b6;
+      color: white;
+      padding: 15px;
+      text-align: center;
+    }
+    nav {
+      background: #023e8a;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin: 0 15px;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    main {
+      padding: 20px;
+    }
+    footer {
+      background: #0077b6;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      margin-top: 20px;
+    }
+HTML
+Index.html
+    
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+      <meta charset="UTF-8">
+      <title>My Personal Website</title>
+      <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+      <header>
+        <h1>Welcome to My Website</h1>
+      </header>
+    
+      <nav>
+        <a href="index.html">Home</a>
+        <a href="profile.html">Profile</a>
+        <a href="hometown.html">Hometown</a>
+        <a href="food.html">Local Food</a>
+        <a href="tourist.html">Tourist Places</a>
+      </nav>
+    
+      <main>
+        <h2>Homepage</h2>
+        <p>This is the main landing page of my personal website for Quiz 1.</p>
+      </main>
+    
+      <footer>
+        <p>&copy; 2025 My Website</p>
+      </footer>
+    </body>
+    </html>
+
+HTML
+Profile.html
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+      <meta charset="UTF-8">
+      <title>Profile</title>
+      <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+      <header><h1>My Profile</h1></header>
+      <nav>
+        <a href="index.html">Home</a>
+        <a href="profile.html">Profile</a>
+        <a href="hometown.html">Hometown</a>
+        <a href="food.html">Local Food</a>
+        <a href="tourist.html">Tourist Places</a>
+      </nav>
+      <main>
+        <h2>About Me</h2>
+        <p>My name is [Your Name]. I am a student at [Your University].</p>
+      </main>
+      <footer><p>&copy; 2025 My Website</p></footer>
+    </body>
+    </html>
+
+
+
+
+
+
+
+
+
+
+
+      
